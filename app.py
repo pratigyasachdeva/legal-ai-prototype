@@ -124,7 +124,7 @@ st.markdown("""
 # ================================
 # 🔹 Backend Logic (Untouched)
 # ================================
-genai.configure(api_key="AIzaSyBWo9_pGJ1v7affJw2EItqIMzv6SuRdUn8")
+genai.configure(api_key="AIzaSyDx7gLntgYAqPFGMhdp0ZKbJLofWLhSeuU")
 
 def extract_text(file):
     text = ""
